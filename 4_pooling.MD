@@ -8,7 +8,7 @@ Pooling leitet sich sprachlich vom englischen _(to) pool_ (zusammenlegen, verein
 
 Bahnhof? Sagen wir... wir bauen ein Shoot'em'up. __Mushihimesama__ in Unity (C#), weil wer will schon einfach anfangen und weniger als 8000 Bullets auf 480x640 wäre Screen estate-Verschwendung.
 
-Wir sitzen am Boss, der alle 0.2 Sekunden 50 Kuegeln feuert. Das Ganze sieht also in etwa so aus:
+Wir sitzen am Boss, der alle 0.2 Sekunden 500 Kuegeln feuert. Das Ganze sieht also in etwa so aus:
 
 ```cs
 // Ein Objekt das 1:1 aussieht und sich verhält wie alle Kugeln sollen
